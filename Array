@@ -79,6 +79,7 @@ print(unique)
 #----------------------------------
 # 5. Find Missing Number in Array
 #----------------------------------
+
 arr = [1,2,3,5] # here missing number 4
 n = 5
 
