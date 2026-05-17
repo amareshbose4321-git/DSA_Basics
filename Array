@@ -1,4 +1,6 @@
+#----------------------------------------
 # 1. Find the largest number in an array.
+#----------------------------------------
 
 arr = [4,6,2,8,10,3]
 largest = arr[0]
@@ -8,7 +10,9 @@ for i in arr:
         largest = i
 print("Largest Number is:",largest)
 
+#----------------------
 # 2. Reverse an Array
+#----------------------
 
 # Using slicing method
 arr = [1,2,3,4,5]
@@ -33,7 +37,9 @@ for i in arr:
     reverse = [i] + reverse
 print(reverse)
 
+#--------------------------------
 # 3. Find Second Largest Element
+#--------------------------------
 
 # Using sorting method 
 arr = [32,56,7,65,99,45]
@@ -52,7 +58,9 @@ for i in arr:
         second = i
 print("Second Largest Element:",second)
 
+#----------------------------------
 # 4. Remove Duplicates from Array
+#----------------------------------
 
 # Converting set
 arr = [1,2,2,3,4,4,5]
@@ -68,8 +76,9 @@ for i in arr:
         unique.append(i)
 print(unique)
 
+#----------------------------------
 # 5. Find Missing Number in Array
-
+#----------------------------------
 arr = [1,2,3,5] # here missing number 4
 n = 5
 
