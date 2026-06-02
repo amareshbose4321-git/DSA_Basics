@@ -2,6 +2,123 @@
 # 2. Array in python | Chai aur DSA (In YouTube)
 # Link: https://youtu.be/eOSk6WDYqr0?si=aefPqKaSjABaZvgP
 
+
+#------------------------
+# Basic Theory of array:
+#------------------------
+
+# Important Theoretical Points
+#--------------------------------
+
+# 1. Array is a Collection of Data
+#------------------------------------
+# An array stores many values together.
+
+# Example:
+# Marks of students
+# Employee IDs
+# Phone numbers
+
+# CODE:
+# mark1 = 80
+# mark2 = 75
+# mark3 = 90
+# # Using array
+# marks = [80, 75, 90]
+
+# Instead of creating many variables, we use one array.
+# Without array
+
+
+# 2. Array Stores Similar Data Types
+#-------------------------------------
+# An array usually stores the same type of data.
+
+# Example:
+# Integer array → 10, 20, 30
+# Character array → 'a', 'b', 'c'
+
+# CODE
+# Integer array
+# numbers = [10, 20, 30]
+
+# Character array
+# letters = ['a', 'b', 'c']
+
+
+# 3. Array is Static in Nature
+#------------------------------------
+# Array size is generally fixed once created.
+
+# Example:
+# If an array size is 5, you cannot directly store 10 elements in it.
+# That is why arrays are called static data structures.
+# In python array module we change array size.
+
+# Languages Where Array is Static
+# In these languages, array size is fixed after creation:
+
+# C
+# C++
+# Java
+
+# Example in Java:
+# int arr[] = new int[3];
+
+# Languages/Structures Where Size Can Change
+# These use dynamic arrays or list-like structures:
+
+# Python → List
+# Java → ArrayList
+# C++ → vector
+
+# Example of Dynamic Size Change in Python List
+
+# CODE
+# arr = [1, 2, 3]
+# arr.append(4)
+# print(arr)
+
+
+# 4. Array Uses Indexing:
+#------------------------------------
+# Each element has a position called an index.
+
+# Index starts from 0.
+
+# Example:
+
+# Index	Value
+# 0	10
+# 1	20
+# 2	30
+
+# Arrays provide direct access to elements using index numbers.
+
+# Example:
+# arr[2]
+
+# This directly accesses the 3rd element.
+
+
+# 5. Array Can Be One-Dimensional or Multi-Dimensional (1D , 2D, 3D)
+#-----------------------------------------------------------------------
+# One-Dimensional Array 
+# Stores data in a single row.
+
+# Example:
+# [1, 2, 3, 4]
+
+# Two-Dimensional Array
+# Stores data in rows and columns.
+
+# Example:
+# [[1,2],
+#  [3,4]]
+
+#``````````````````````````````````````````````````````````````#
+
+
 # from numpy import * 
 from array import * #--> in that case we need to declare data type like: 'i', 'f', etc... 
 
