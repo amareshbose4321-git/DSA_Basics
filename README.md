@@ -1,2 +1,2 @@
-# DSA-Questions
-This repo contains DSA releted questions
+# DSA_Basics
+This repo contains DSA Basics concept.

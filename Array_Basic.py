@@ -1,8 +1,3 @@
-# For intoduction of array and all basic: 
-# 2. Array in python | Chai aur DSA (In YouTube)
-# Link: https://youtu.be/eOSk6WDYqr0?si=aefPqKaSjABaZvgP
-
-
 #------------------------
 # Basic Theory of array:
 #------------------------

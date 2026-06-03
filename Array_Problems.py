@@ -1,6 +1,3 @@
-# Playlist YouTube: take u forward
-# Link: https://youtu.be/wvcQg43_V8U?si=7egRuhMPSesaqnlI
-
 # from numpy import * 
 # from array import * #--> in that case we need to declare data type like: 'i', 'f', etc... 
 
