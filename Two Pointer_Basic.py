@@ -155,7 +155,7 @@
 #**Often use two pointers.**
 
 
-# Clue 3: Remove or Rearrange Elements
+# Clue 3: Merge/Remove/Rearrange Elements
 #-------------------------------------------
 # Questions like:
 #-----------------
